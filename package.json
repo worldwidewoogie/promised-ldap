@@ -1,6 +1,6 @@
 {
-  "name": "promised-ldap",
-  "version": "0.3.0",
+  "name": "@jcu/promised-ldap",
+  "version": "0.4.0",
   "description": "A thin wrapper over ldapjs to give a promise interface and a couple of other goodies",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/stewartml/promised-ldap.git"
+    "url": "git+ssh://git@github.com/jcu-eresearch/promised-ldap.git"
   },
   "keywords": [
     "ldap",
     "promise",
     "authentication"
   ],
-  "author": "Stewart MacKenzie-Leigh",
+  "author": "JCU eResearch Centre",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stewartml/promised-ldap/issues"
+    "url": "https://github.com/jcu-eresearch/promised-ldap/issues"
   },
-  "homepage": "https://github.com/stewartml/promised-ldap#readme",
+  "homepage": "https://github.com/jcu-eresearch/promised-ldap#readme",
   "dependencies": {
     "any-promise": "^0.1.0",
     "ldapjs": "^1.0.0"
